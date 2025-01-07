@@ -1,4 +1,4 @@
-# Jupiter Flight Landing Page
+# Band Landing Page
 
 A retro-futuristic landing page for the single 'Jupiter Flight' featuring:
 - Spotify player integration
